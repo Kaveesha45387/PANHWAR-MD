@@ -7,8 +7,8 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID":C3xDAaIQ#W6GL3a0Taa5XXxsftSn-t6QSYyeMUhpUPp69KDgaKMA 
+      "description": "",
       "required": true,
       "value": ""
     },  
@@ -25,7 +25,7 @@
       "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
     },
     
-    "PREFIX": {
+    "PREFIX": {.
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
       "value": "."
